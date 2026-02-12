@@ -1,0 +1,59 @@
+﻿[
+  {
+    "id": "candy-wings",
+    "slug": "the-candy-wings",
+    "name": "The Candy Wings 🦋🍭",
+    "shortName": "The Candy Wings",
+    "subtitle": "Varian Colorful & Pop",
+    "vibeKey": "playful",
+    "vibeLabel": "Playful & Fun",
+    "description": "Siapa bilang bunga cuma bisa anggun? Perpaduan bunga artificial premium dengan warna pop manis dan aksen sayap kupu-kupu ikonik. Bikin momenmu secerah pelangi!",
+    "suitableFor": "Wisuda, ulang tahun sahabat, atau kado buat si extraordinary person!",
+    "homeTag": "Warna pop, playful, dan mood-booster.",
+    "image": "https://i.pinimg.com/736x/2a/a1/c8/2aa1c8be506dac1037a7d42a6f97cbd4.jpg",
+    "featured": 1,
+    "prices": {
+      "M": "Rp289.000",
+      "L": "Rp359.000",
+      "XL": "Rp429.000"
+    }
+  },
+  {
+    "id": "summer-breeze",
+    "slug": "summer-breeze",
+    "name": "Summer Breeze 🌊🌻",
+    "shortName": "Summer Breeze",
+    "subtitle": "Varian Fresh & Airy",
+    "vibeKey": "fresh",
+    "vibeLabel": "Fresh & Airy",
+    "description": "Rasakan kesegaran taman musim panas. Kombinasi bunga matahari bright dengan kertas hologram yang memantulkan cahaya pelangi ringan. Cantik, tenang, dan positif.",
+    "suitableFor": "Kado penyemangat (get well soon), ucapan terima kasih, atau self-reward.",
+    "homeTag": "Segar, ringan, dan calming untuk mood positif.",
+    "image": "https://i.pinimg.com/736x/5e/c6/54/5ec654cc85e89a5a9848d73a5d0fe010.jpg",
+    "featured": 2,
+    "prices": {
+      "M": "Rp279.000",
+      "L": "Rp349.000",
+      "XL": "Rp419.000"
+    }
+  },
+  {
+    "id": "thumbelina-dream",
+    "slug": "thumbelinas-dream",
+    "name": "Thumbelina’s Dream ✨🌸",
+    "shortName": "Thumbelina’s Dream",
+    "subtitle": "Varian Petite & Sweet",
+    "vibeKey": "petite",
+    "vibeLabel": "Petite & Sweet",
+    "description": "Si mungil penuh keajaiban. Dirancang untuk pencinta detail minimalis. Ukuran kecil dengan sentuhan rustic dan kupu-kupu kecil. Bukti hal besar berawal dari yang kecil.",
+    "suitableFor": "Hadiah meja kerja, kado anniversary singkat, atau surprise manis tak terduga.",
+    "homeTag": "Petite, sweet, dan manis untuk momen intim.",
+    "image": "https://i.pinimg.com/1200x/3d/e0/cb/3de0cbbbbc721c38c1f58a16ad5334d1.jpg",
+    "featured": 3,
+    "prices": {
+      "M": "Rp249.000",
+      "L": "Rp319.000",
+      "XL": "Rp389.000"
+    }
+  }
+]
